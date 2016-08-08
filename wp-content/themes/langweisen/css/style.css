@@ -258,10 +258,9 @@ strong {
 	position: relative;
 	float: right;
 	margin: 0 11px;
-	width: 175px;
-	/*height: 137px;*/
+	width: 314px;
 	height: 175px;
-	background: url(/wp-content/uploads/2016/08/lario_wohnen_am_rhein_feuerthalen.jpg) no-repeat;
+	background: url(/wp-content/uploads/2016/08/logo-see177.jpg) no-repeat;
 	background-size: cover;
 }
 
@@ -277,9 +276,9 @@ strong {
 	position: relative;
 	float: right;
 	margin: 0 11px;
-	width: 205px;
+	width: 314px;
 	height: 175px;
-	background: url(/wp-content/uploads/2016/08/Logo-Lario-Rhytreat-Landwiesen.jpg) no-repeat;
+	background: url(/wp-content/uploads/2016/08/logo-see177.jpg) no-repeat;
 	background-size: cover;
 }
 
@@ -2357,17 +2356,14 @@ form p.zweispalten, form div.zweispalten {
 
 @media only screen and (max-width: 935px) {
 	#logo {
-		width: 107px;
-		/* height: 84px; */
+		width: 192px;
 		height: 107px;
-		/* background: url(../img/eigentumswohnung_kaufen_rhysunne_logoweb.jpg) no-repeat; */
-    background: url(/wp-content/uploads/2016/08/lario_wohnen_am_rhein_feuerthalen.jpg) no-repeat;
+    background: url(/wp-content/uploads/2016/08/logo-see177.jpg) no-repeat;
 		background-size: cover;
 	}
 	
 	#logo a {
-		width: 107px;
-		/* height: 84px; */
+		width: 192px;
 		height: 107px;
 	}
 	
