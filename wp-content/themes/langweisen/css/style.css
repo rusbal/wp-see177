@@ -258,7 +258,7 @@ strong {
 	position: relative;
 	float: right;
 	margin: 0 11px;
-	width: 314px;
+	width: 231px;
 	height: 175px;
 	background: url(/wp-content/uploads/2016/08/logo-see177.jpg) no-repeat;
 	background-size: cover;
@@ -276,7 +276,7 @@ strong {
 	position: relative;
 	float: right;
 	margin: 0 11px;
-	width: 314px;
+	width: 231px;
 	height: 175px;
 	background: url(/wp-content/uploads/2016/08/logo-see177.jpg) no-repeat;
 	background-size: cover;
@@ -284,9 +284,8 @@ strong {
 
 #logo a {
 	display: block;
-	width: 175px;
-	/*height: 137px;*/
-	height: 175px;
+	width: inherit;
+	height: inherit;
 	text-indent: -9999px;
 	overflow: hidden;
 }
@@ -2356,15 +2355,15 @@ form p.zweispalten, form div.zweispalten {
 
 @media only screen and (max-width: 935px) {
 	#logo {
-		width: 192px;
+		width: 141.24px;
 		height: 107px;
     background: url(/wp-content/uploads/2016/08/logo-see177.jpg) no-repeat;
 		background-size: cover;
 	}
 	
 	#logo a {
-		width: 192px;
-		height: 107px;
+		width: inherit;
+		height: inherit;
 	}
 	
 	#mainNav a {
@@ -2604,6 +2603,12 @@ div.wpcf7-spam-blocked, div.wpcf7-validation-errors {
   cursor: pointer;
 }
 .max-980 {
-  max-width: 980px;
+  /* max-width: 980px; */
   width: 100%;
+}
+.size-large, .size-full {
+  width: 100%;
+}
+.arch-picture {
+  width: 100%; max-width: 300px;
 }
