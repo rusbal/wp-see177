@@ -1,7 +1,7 @@
 <?php
 /**
  * Template Name: Empty Template
- * Author: raymond@philippinedev.com
+ * Author: Maker GmbH
  * Date: 2016-08-08
  * Time: 22:35
  */

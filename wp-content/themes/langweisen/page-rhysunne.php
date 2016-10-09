@@ -2,15 +2,15 @@
 <html lang="de">
 <head>
 <!--    <title>--><?php //bloginfo('name'); ?><!-- | --><?php //is_front_page() ? bloginfo('description') : wp_title('|', true, 'right'); ?><!--</title>-->
-    <title>Langwiesen, Feuerthalen, Kanton Zürich: Wohneigentum direkt am Rhein in Stadtnähe vonSchaffhausen: Rhysunne. Lebensqualität und Panorama an privilegierter Lage</title>
+    <title>SEE177, Seestrasse 177, Steckborn, Kanton Thurgau: Wohneigentum direkt am Untersee / Bodensee. Lebensqualität und Panorama an privilegierter Lage</title>
     <meta charset="UTF-8">
-    <meta name="description" content="Leben wie im Paradies in Langwiesen ZH: Rhysunne am Rhein." />
+    <meta name="description" content="Leben wie im Paradies am Bodensee: SEE177 am Untersee in Steckborn." />
     <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=yes,maximum-scale=2"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
     <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
-    <meta name="keywords" content="immobilien, eigentumswohnung, eigentumswohnungen, haus kaufen, feuerthalen, schaffhausen, flurlingen, uhwiesen, dachsen, paradies, diessenhofen, wohnen am rhein, wohnung kaufen, leben am rhein, immobilienangebote, wohnungen, wohnimmobilien" />
+    <meta name="keywords" content="immobilien, eigentumswohnung, eigentumswohnungen, haus kaufen, steckborn, untersee, bodensee, frauenfeld, wohnen am wasser, wohnung kaufen, leben am wasser, immobilienangebote, wohnungen, wohnimmobilien" />
     <meta name="revisit-after" content="7 days"/>
-    <meta name="author" content="Rhysunne Langwiesen Feuerthalen c/o Maker GmbH, Neuhausen am Rheinfall" />
+    <meta name="author" content="SEE177 Steckborn c/o Maker GmbH, Neuhausen am Rheinfall" />
     <meta name="publisher" content="Maker GmbH, Neuhausen am Rheinfall" />
     <!--[if lt IE 9]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -201,7 +201,7 @@
 <div id="outWrap">
     <div id="wrap">
         <section id="header">
-            <div id="logo"><a href="/rhysunne">Rhysunne</a></div>
+            <div id="logo"><a href="/rhysunne">SEE177</a></div>
             <nav id="headerNav">
                 <ul>
                     <?php
@@ -232,7 +232,7 @@
             <div class="clear"></div>
         </section><!-- #header -->
         <div id="logoPrint"><img src="<?php bloginfo('stylesheet_directory'); ?>/img/rhytreat_logo.png" width="107" height="84"
-                                 alt="Rhysunne"></div>
+                                 alt="SEE177"></div>
         <?php
         while ( have_posts() ) : the_post();
         ?>

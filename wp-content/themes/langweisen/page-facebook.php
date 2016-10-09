@@ -1,7 +1,7 @@
 <?php
 /**
  * Template Name: Facebook Template
- * Author: raymond@philippinedev.com
+ * Author: Maker GmbH
  * Date: 2016-06-10
  * Time: 14:11
  */
@@ -9,10 +9,10 @@
 <!doctype html>
 <html>
 <head>
-  <title>Langwiesen Eigentumswohnung kaufen | 4,5 Zimmer-Eigentumswohnungen kaufen am Rhein</title>
+  <title>SEE177 Eigentumswohnung am Untersee kaufen | Eigentumswohnungen am Bodensee</title>
 
   <?php include "header.meta.html"; ?>
-  <meta name="description" content="Langwiesen direkt am Rhein in der Gemeinde Feuerthalen im Kanton Zürich - 5 min von Schaffhausen bietet mit einer Eigentumswohnung hohe Lebensqualität am Rhein"/>
+  <meta name="description" content="neue Eigentumswohnung in Steckborn direkt am Untersee - hohe Lebensqualität am Bodensee in einer Eigentumswohnung"/>
   <?php include "html5shiv.html"; ?>
   <?php include "link.icons.html"; ?>
 

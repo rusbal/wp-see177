@@ -2612,3 +2612,9 @@ div.wpcf7-spam-blocked, div.wpcf7-validation-errors {
 .arch-picture {
   width: 100%; max-width: 300px;
 }
+
+@media only screen and (max-width: 1032px) {
+  img.fullwidth-left-adj {
+    margin-left: -11px; width:calc(100% + 22px)
+  }
+}

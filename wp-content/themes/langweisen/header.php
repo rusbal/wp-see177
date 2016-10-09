@@ -5,7 +5,7 @@
 
   <?php wp_head(); ?>
 
-  <?php include "header.meta.html"; ?>
+  <?php include "header.meta.php"; ?>
   <?php include "html5shiv.html"; ?>
   <?php include "link.icons.html"; ?>
   <?php include "header.mailchimp-tracking.html"; ?>
@@ -14,7 +14,7 @@
 <div id="outWrap">
     <div id="wrap">
         <section id="header">
-            <div id="logo"><a href="/">Rhytreat</a></div>
+            <div id="logo"><a href="/">SEE177</a></div>
             <nav id="headerNav">
                 <ul>
                     <?php
@@ -47,5 +47,5 @@
             <div class="clear"></div>
         </section><!-- #header -->
         <div id="logoPrint">
-            <!--<img src="<?php bloginfo('stylesheet_directory'); ?>/img/rhytreat_logo.png" width="107" height="84" alt="Rhytreat">-->
+            <!--<img src="<?php bloginfo('stylesheet_directory'); ?>/img/rhytreat_logo.png" width="107" height="84" alt="SEE177">-->
         </div>
