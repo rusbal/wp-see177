@@ -121,3 +121,22 @@ register_nav_menus(
             'main-nav' => __('Main Menu')
         )
 );
+
+
+/**
+ * Provided by plugin: contact-form-7-custom-validation
+ */
+new Rsu\Cf7\Validator\RequireOne([
+    'zimmerzahl_' => [
+        'zimmerzahl_3_5',
+        'zimmerzahl_4_5',
+        'zimmerzahl_attika',
+    ],
+    'preislage_' => [
+        'preislage_0_6_to_0_8',
+        'preislage_0_8_to_1_0',
+        'preislage_1_0_to_1_2',
+        'preislage_1_2_to_1_4',
+        'preislage_1_4_to_plus',
+    ],
+]);
