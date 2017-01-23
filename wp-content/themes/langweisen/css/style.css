@@ -2598,9 +2598,11 @@ div.wpcf7-spam-blocked, div.wpcf7-validation-errors {
 .max-980 {
   /* max-width: 980px; */
   width: 100%;
+  height: auto;
 }
 .size-large, .size-full {
   width: 100%;
+  height: auto;
 }
 .arch-picture {
   width: 100%; max-width: 300px;
